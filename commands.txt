@@ -1,0 +1,5 @@
+git clone https://github.com/GuzmanMagarinos/Hola-Mundo.git 
+git commit -m "Commit inicial"
+git status
+git push 
+git pull
