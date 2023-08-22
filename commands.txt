@@ -3,3 +3,6 @@ git commit -m "Commit inicial"
 git status
 git push 
 git pull
+git add
+git commit -m "Commit final"
+git push
